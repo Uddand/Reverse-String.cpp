@@ -22,7 +22,7 @@ int main()
 
    r[begin] = '\0';
 
-   cout<<"reverse string:"<<r<<endl;;
+   cout<<"reverse string:"<<r<<endl;
 
    return 0;
 }
